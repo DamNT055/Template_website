@@ -1,6 +1,6 @@
 # Template_website
 
-- [Folio](AI)](#AI)
+- [Folio(AI)](#AI)
 - [Machine Learning(ML)](https://damnt055.github.io/)
 - [Deep Learning(DL)](#DL)
 - [Computer Vision(CV)](#CV)
